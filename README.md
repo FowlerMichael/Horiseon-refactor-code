@@ -11,7 +11,7 @@ To view and edit the CSS styles, open the style.css file in a code editor.
 # Built With
 HTML, CSS
 
-# Authors
+# Author
 Michael Fowler
 
 # Acknowledgments
