@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* the header element along with the H1,H2,H3 are semantic elements used to divide into new sections */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* nav is used to contain navigational links */
+/* ul li are used to make unordered lists */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -138,7 +139,7 @@ color: #ffffff;
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer is used to comtain the bottom or end of the web page */
 .footer {
     padding: 30px;
     clear: both;
