@@ -1,5 +1,5 @@
 # Horiseon Social Solution Services
-This project is a website for Horiseon Social Solution Services, a company that provides various online marketing solutions. The website showcases the services provided by the company and their benefits.
+This project is a website for Horiseon Social Solution Services, a company that provides various online marketing solutions. The website showcases the services provided by the company and their benefits. 
 
 The project includes HTML and CSS files that were used to create the website.
 
@@ -15,4 +15,5 @@ HTML, CSS
 Michael Fowler
 
 # Acknowledgments
-Horiseon Social Solution Services, MSU Coding Bootcamp
+Horiseon Social Solution Services, MSU Coding Bootcamp,
+https://www.youtube.com/watch?v=dHbYcAncAgQ for font accessability 

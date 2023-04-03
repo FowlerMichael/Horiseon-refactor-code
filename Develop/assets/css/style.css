@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline;
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 .header h1 .seo {
@@ -36,7 +36,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .hero {
@@ -49,7 +49,6 @@ p {
 }
 
 .float-left {
-   
     float: left;
     margin-right: 25px;
 }
@@ -95,25 +94,7 @@ color: #ffffff;
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {   
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -134,10 +115,10 @@ color: #ffffff;
     max-height: 200px;
 }
 
-<!-- used * to group all h2-->
+/*<!-- used * to group all h2--> */
 *h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2rem;
 }
 /* footer is used to contain the bottom or end of the web page */
 .footer {
