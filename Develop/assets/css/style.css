@@ -17,12 +17,18 @@ body {
 }
 
 .header h1 {
-    display: inline;
+    display: inline-block;
     font-size: 3rem;
 }
 
 .header h1 .seo {
     color: #d9dcd6;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
 }
 /* nav is used to contain navigational links */
 /* ul li are used to make unordered lists */
