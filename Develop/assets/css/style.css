@@ -10,6 +10,7 @@ body {
 /* the header element along with the H1,H2,H3 are semantic elements used to divide into new sections */
 .header {
     padding: 20px;
+    margin-bottom: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -76,7 +77,7 @@ p {
 }
 
 /* <!--added *.benefit to group all items together rather then have extra code--> */
-*.benefit {
+.benefit {
     margin-bottom: 32px;
 color: #ffffff;
 }
@@ -103,15 +104,7 @@ color: #ffffff;
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
