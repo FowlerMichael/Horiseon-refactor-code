@@ -3,7 +3,8 @@
     padding: 0;
     margin: 0;
 }
-
+/* changed the font sizes to rem to make it more responsive */
+/* body is used to contain all the content of an HTML document */
 body {
     background-color: #d9dcd6;
 }
@@ -29,6 +30,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
+    font-size: 1.5rem;
 }
 /* nav is used to contain navigational links */
 /* ul li are used to make unordered lists */
@@ -36,12 +38,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* a is used to contain a hyperlink */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* p is used to contain a paragraph */
 p {
     font-size: 1rem;
 }
@@ -64,13 +66,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* <!--added .content to group all items together rather then have extra code--> */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* <!--added .benefits to group all items together rather then have extra code--> */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +102,7 @@ color: #ffffff;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* <!--added .search-engine-optimization, .online-reputation-management, .social-media-marketing to group all items together rather then have extra code--> */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {   
     margin-bottom: 20px;
     padding: 50px;
