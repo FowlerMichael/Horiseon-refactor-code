@@ -9,7 +9,9 @@ To view the website, open the index.html file in a web browser.
 To view and edit the CSS styles, open the style.css file in a code editor.
 
 #Photo 
-![Alt text](Develop/Web%20capture_4-4-2023_135746_.jpeg)
+![image](https://user-images.githubusercontent.com/123891461/229967725-a35cc647-fa3f-40b8-8dbe-876fa9375c4e.png)
+
+
 # Built With
 HTML, CSS
 
